@@ -4,7 +4,7 @@ import ProductCard from '../Components/Card';
 import snakeplant from '../assets/sp.jpg';
 import pothos from '../assets/pothos.jpg';
 import spiderplant from '../assets/spider.jpg';
-import zzplant from '../assets/zz.jpg';
+import zzplant from '../assets/ZZ.jpg';
 import rose from '../assets/rose.jpg';
 import lily from '../assets/lily.jpg';
 import tulip from '../assets/tulip.jpg';
